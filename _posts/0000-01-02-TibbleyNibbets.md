@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Some stupid butt witty comment. I'm frustrated with this learning process.
 Use the left arrow to go back!
